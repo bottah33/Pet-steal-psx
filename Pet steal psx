@@ -1,0 +1,2 @@
+_G.Loader_Key = "DMkGAbkAGJebDTp"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bottah33/my-dupe/main/DupeByBottah"))()
